@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "255128220515",
+    "firebase_url": "https://todotask-6eaa5-default-rtdb.firebaseio.com",
+    "project_id": "todotask-6eaa5",
+    "storage_bucket": "todotask-6eaa5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255128220515:android:ce17ba86024699dc10d956",
+        "android_client_info": {
+          "package_name": "com.example.todo_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255128220515-dtvis7avp7mfr0v4plhjfk8r511v5sjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIO4FL1l3ztjtHIHin4166bAu5C-N64EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255128220515-dtvis7avp7mfr0v4plhjfk8r511v5sjj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

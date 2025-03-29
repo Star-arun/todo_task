@@ -1,0 +1,22 @@
+# Flutter/Dart specific
+.dart_tool/
+.build/
+pubspec.lock
+.idea/
+.vscode/
+*.log
+*.tmp
+*.bak
+
+# Android
+android/.gradle/
+android/app/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/.generated/
+
+# Other files
+*.swp
+*.DS_Store
